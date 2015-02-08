@@ -19,9 +19,9 @@
 		a 8. a b 8 c' 4. a 8  |
 		b 2 e  |
 %% 20
-		f 4. g 8 \times 2/3 { a 4 g f }  |
+		f 4. g 8 a 8. g f 8  |
 		e 2 e  |
-		r4 d 8 e \times 2/3 { f 4 e d }  |
+		r4 d 8 e f 8. e d 8  |
 		e 2 a  |
 		r2 a 4 c'  |
 %% 25
@@ -29,11 +29,10 @@
 		e' 2 r4 r8 a  |
 		c' 8. c' d' 8 e' 4. c' 8  |
 		d' 2 b  |
-		r4 c' 8 c' \times 2/3 { c' 4 c' c' }  |
+		r4 c' 8 c' c' 8. c' c' 8  |
 %% 30
 		c' 2 c' 4 ( b
-		% warning: overlong bar truncated here |
-		a 2 ) \times 2/3 { r4 c' b }  |
+		a 2 ) r8. c' b 8  |
 		a 2 a  |
 		r2 a 4 c'  |
 		e' 4 ( d' c' b 8 ) a  |
@@ -41,16 +40,16 @@
 		c' 8. c' d' 8 e' 4. c' 8  |
 		d' 2 b  |
 		R1  |
-		r4 c' 8 c' \times 2/3 { c' 4 a c' }  |
-		\times 2/3 { d' 4 c' 2 ~ } c'  |
+		r4 c' 8 c' c' 8. a c' 8  |
+		d' 8. c' ~ c' 8 ~ c' 2  |
 %% 40
 		r4 c' a c'  |
-		a 4. r8 \times 2/3 { c' 4 c' c' }  |
+		a 4. r8 c' 8. c' c' 8  |
 		c' 1  |
 		R1  |
 		r4 c' a c'  |
 %% 45
-		a 4. r8 \times 2/3 { c' 4 c' c' }  |
+		a 4. r8 c' 8. c' c' 8  |
 		e' 1 ~  |
 		e' 2 r  |
 		\bar "|."

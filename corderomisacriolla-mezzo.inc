@@ -19,10 +19,9 @@
 		a' 8. a' b' 8 c'' 4. a' 8  |
 		b' 2 e'  |
 %% 20
-
-		f' 4. g' 8 \times 2/3 { a' 4 g' f' }  |
+		f' 4. g' 8 a' 8. g' f' 8  |
 		e' 2 e'  |
-		r4 d' 8 e' \times 2/3 { f' 4 e' d' }  |
+		r4 d' 8 e' f' 8. e' d' 8  |
 		e' 2 a'  |
 		r2 f' 4 a'  |
 %% 25
@@ -30,33 +29,27 @@
 		gis' 2 r4 r8 e'  |
 		a' 8. a' a' 8 a' 4. a' 8  |
 		g' 4 ( b ) d' ( g'
-		% warning: overlong bar truncated here |
-		f' 2.. ) f' 8  |
+		f' 2. ~ f' 8 ) f'  |
 %% 30
 		e' 2 e'  |
-		r4 d' 8 d' \times 2/3 { d' 4 c' b }  |
+		r4 d' 8 d' d' 8. c' b 8  |
 		c' 2 e' (
-		% warning: overlong bar truncated here |
 		f' 4. ) r8 f' 4 a'  |
 		gis' 2. r8 e'  |
 %% 35
 		a' 8. a' a' 8 a' 4. a' 8  |
 		g' 4 ( b ) d' ( g'
-		% warning: overlong bar truncated here |
-		%f' 2. ~ f' 8 ) f'  |
-		f' 2.. ) f' 8  |
+		f' 2. ~ f' 8 ) f'  |
 		e' 2 e'  |
-		r2 \times 2/3 { d' 4 c' b }  |
+		r2 d' 8. c' b 8  |
 %% 40
 		c' 2 ( e'
-		% warning: overlong bar truncated here |
 		f' 4. ) r8 r2  |
 		r4 a c' c' 8 ( e' )  |
-		f' 2 \times 2/3 { f' 4 f' f' }  |
+		f' 2 f' 8. f' f' 8  |
 		e' 2 ( c'
-		% warning: overlong bar truncated here |
 %% 45
-		\times 2/3 { d' 4 c' 2 ) } \times 2/3 { c' 4 c' c' }  |
+		d' 8. c' ~ c' 8 ) c' 8. c' c' 8  |
 		c' 1 ~  |
 		c' 2 r  |
 		\bar "|."
