@@ -31,6 +31,7 @@ globalTempo = {
 		\new StaffGroup <<
 			\include "corderomisacriolla-soprano.inc"
 			\include "corderomisacriolla-mezzo.inc"
+			\include "corderomisacriolla-tenor.inc"
 		>>
 		\include "corderomisacriolla-violin.inc"
 
