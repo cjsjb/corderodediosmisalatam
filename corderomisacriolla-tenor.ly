@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Cordero de Dios"
-	subtitle = "(Como Quimantú)"
+	subtitle = "Como Quimantú"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Tenor"
 }

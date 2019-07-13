@@ -5,7 +5,7 @@
 \header {
 	title = "Cordero de Dios"
 	instrument = "Soprano"
-	subtitle = "(Como Quimantú)"
+	subtitle = "Como Quimantú"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
