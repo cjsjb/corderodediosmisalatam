@@ -55,7 +55,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		Cor -- de -- ro de Dios que qui -- tas
 		el pe -- ca -- do del mun -- do,
 		ten pie -- dad de no -- so -- tros,
